@@ -33,3 +33,14 @@ a[href="http://www.falconmasters.com"]
   color: green;
   font-size: 30px;
 }
+p a{
+  color:hotpink
+}
+p{
+  background-color: black;
+}
+.dos{
+  background-color: rgb(17, 119, 216);
+  border: 5px dotted black  ;
+  border-radius: 20px;
+}
