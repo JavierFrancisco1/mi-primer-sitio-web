@@ -47,8 +47,10 @@ p a {
   border-radius: 20px;
 }
 .dies {
-  width: 1000px;
+  width: 500px;
   height: 300px;
   margin: 30px 100px;
   background-color: rgb(226, 128, 17);
+  padding: 30px;
+  border: 20px black solid;
 }
